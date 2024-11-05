@@ -1,4 +1,4 @@
-23814345267052895
+23838564747526503
 5_0SMDJ6_0CAS
 DIONM7959X262N
 DO-214AB (SMC J-Bend)-ren2
@@ -56713,6 +56713,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EE2-5TNUH-L
+EE25TNU
+EE2-5TNU-2
+Relay or Contactor
+0
+10
+10
 ESP8266
 ESP-01
 Module, ESP-8266, ESP-01, 8 pin
@@ -57840,6 +57847,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+G5NB-1A4_DC5
+G5NB1A4DC5
+G5NB-1A4 DC5
+Relay or Contactor
+0
+4
+4
 G5Q-1A4-EL2
 Relay_SPST_TE_PCH-1xxx2M_copy
 Miniature PCB Relay, PCH Series, 1 Form A (NO), SPST http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FPCH_series_relay_data_sheet_E%7F1215%7Fpdf%7FEnglish%7FENG_DS_PCH_series_relay_data_sheet_E_1215.pdf
@@ -96851,3 +96865,87 @@ machox5_board
 0
 108
 108
+plugin_mxo5
+BGA-256_14.0x14.0mm_Layout16x16_P0.8mm_Ball0.45mm_Pad0.32mm_NSMD
+BGA-256, dimensions: https://www.xilinx.com/support/documentation/package_specs/ft256.pdf, design rules: https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf
+BGA-256
+0
+256
+256
+plugin_mxo5
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+plugin_mxo5
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+plugin_mxo5
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+plugin_mxo5
+HRS_DF12NC_3.0_-60DS-0.5V_51_
+
+
+0
+60
+60
+plugin_mxo5
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+plugin_mxo5
+PinHeader_1x08_P1.27mm_Vertical
+Through hole straight pin header, 1x08, 1.27mm pitch, single row
+Through hole pin header THT 1x08 1.27mm single row
+0
+8
+8
+plugin_mxo5
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+plugin_mxo5
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+plugin_mxo5
+SOIC127P600X100-8N
+HTSOP-J8-
+Power Supply
+0
+8
+8
+plugin_mxo5
+SOT-89-5
+SOT-89-5, http://www.e-devices.ricoh.co.jp/en/products/product_power/pkg/sot-89-5.pdf
+SOT-89-5
+0
+5
+5
+plugin_mxo5
+SPM6530
+SPM6530
+Inductor (FeSi Core)
+0
+2
+2

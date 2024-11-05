@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 99.822 26.67)
-		(size 12.7 3.81)
+		(at 120.65 38.1)
+		(size 34.29 8.89)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -16,9 +16,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "c9f8b6db-00a8-4d7a-90f8-881b4dc185fc")
-		(property "Sheetname" "FTDI"
-			(at 99.822 25.9584 0)
+		(uuid "823440ad-5d28-460a-8ff0-b29e1795a783")
+		(property "Sheetname" "sw"
+			(at 120.65 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,8 +26,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "FTDI.kicad_sch"
-			(at 99.822 31.0646 0)
+		(property "Sheetfile" "dim_sw.kicad_sch"
+			(at 120.65 47.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38,14 +38,14 @@
 		(instances
 			(project "home_auto"
 				(path "/68de2dd7-8f08-479b-94c5-c7847794fd33/0646acc6-79c1-4e67-b684-df663024146f"
-					(page "7")
+					(page "79")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 42.164 26.67)
-		(size 12.7 3.81)
+		(at 29.21 38.1)
+		(size 29.21 8.89)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -56,7 +56,7 @@
 		)
 		(uuid "d7ced5e0-0c0c-4152-9046-c846e8f8336d")
 		(property "Sheetname" "POWER"
-			(at 42.164 25.9584 0)
+			(at 29.21 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "POWER.kicad_sch"
-			(at 42.164 31.0646 0)
+			(at 29.21 47.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82,8 +82,8 @@
 		)
 	)
 	(sheet
-		(at 71.12 26.67)
-		(size 12.7 3.81)
+		(at 36.83 67.056)
+		(size 43.688 13.462)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -94,7 +94,7 @@
 		)
 		(uuid "e2414220-ec84-428f-be7d-97f80e2816b2")
 		(property "Sheetname" "FPGA_GPIO"
-			(at 71.12 25.9584 0)
+			(at 36.83 66.3444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,7 +103,7 @@
 			)
 		)
 		(property "Sheetfile" "FPGA_GPIO.kicad_sch"
-			(at 71.12 31.0646 0)
+			(at 36.83 81.1026 0)
 			(effects
 				(font
 					(size 1.27 1.27)

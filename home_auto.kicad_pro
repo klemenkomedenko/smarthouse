@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 2.0
         }
       },
       "diff_pair_dimensions": [
@@ -118,7 +118,7 @@
         "max_error": 0.005,
         "min_clearance": 0.13,
         "min_connection": 0.09,
-        "min_copper_edge_clearance": 0.2,
+        "min_copper_edge_clearance": 1.0,
         "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -179,7 +179,7 @@
       ],
       "track_widths": [
         0.0,
-        0.09
+        0.2
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -214,7 +214,7 @@
         },
         {
           "diameter": 0.45,
-          "drill": 0.3
+          "drill": 0.35
         }
       ],
       "zones_allow_external_fillets": false
@@ -445,9 +445,7 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "plugin_mxo5"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -469,8 +467,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.09,
-        "via_diameter": 0.45,
-        "via_drill": 0.3,
+        "via_diameter": 0.4,
+        "via_drill": 0.25,
         "wire_width": 6
       }
     ],
@@ -486,7 +484,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -613,60 +611,6 @@
           "label": "Sim.Device",
           "name": "Sim.Device",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description_1",
-          "name": "Description_1",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Availability",
-          "name": "Availability",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MANUFACTURER",
-          "name": "MANUFACTURER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Package",
-          "name": "Package",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Price",
-          "name": "Price",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SnapEDA_Link",
-          "name": "SnapEDA_Link",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MF",
-          "name": "MF",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MP",
-          "name": "MP",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Check_prices",
-          "name": "Check_prices",
-          "show": false
         }
       ],
       "filter_string": "",
@@ -720,24 +664,72 @@
       "Root"
     ],
     [
-      "23ef6740-3761-41b0-8340-b139d8a30681",
-      "power_supply"
+      "d909bc7e-c24c-4952-aac8-0243844fb75a",
+      "led_cur_lim"
     ],
     [
-      "0646acc6-79c1-4e67-b684-df663024146f",
-      "FPGA_machX05"
+      "005a2024-8f92-469d-bc4a-744e1679faf7",
+      "led_cur_lim1"
     ],
     [
-      "d7ced5e0-0c0c-4152-9046-c846e8f8336d",
-      "POWER"
+      "ade78f76-2dfa-4a61-a7b6-c0049c12516f",
+      "led_cur_lim2"
     ],
     [
-      "c9f8b6db-00a8-4d7a-90f8-881b4dc185fc",
-      "FTDI"
+      "d201333b-5485-457c-9fcb-2d7949e80791",
+      "led_cur_lim3"
     ],
     [
-      "e2414220-ec84-428f-be7d-97f80e2816b2",
-      "FPGA_GPIO"
+      "ede8903f-d3c7-4a76-9aec-82eef41c596b",
+      "led_cur_lim4"
+    ],
+    [
+      "38e43560-dc5d-4488-af54-7fd49213ac73",
+      "led_cluster1"
+    ],
+    [
+      "005a2024-8f92-469d-bc4a-744e1679faf7",
+      "led_cur_lim1"
+    ],
+    [
+      "d909bc7e-c24c-4952-aac8-0243844fb75a",
+      "led_cur_lim"
+    ],
+    [
+      "d201333b-5485-457c-9fcb-2d7949e80791",
+      "led_cur_lim3"
+    ],
+    [
+      "ade78f76-2dfa-4a61-a7b6-c0049c12516f",
+      "led_cur_lim2"
+    ],
+    [
+      "ede8903f-d3c7-4a76-9aec-82eef41c596b",
+      "led_cur_lim4"
+    ],
+    [
+      "f53d6939-53c5-4a6f-a98d-78c49925da7f",
+      "led_cur_lim5"
+    ],
+    [
+      "feb57203-b62c-4e0d-97b0-167fd3f2ad5a",
+      "led_cur_lim6"
+    ],
+    [
+      "fb47182a-af5d-4515-ad79-178623ec22d8",
+      "led_cur_lim7"
+    ],
+    [
+      "7a69edd2-25c4-4ed3-a7a9-92d7e573ab90",
+      "led_cur_lim8"
+    ],
+    [
+      "1f8c924d-a3bb-4076-ad10-e969d7708339",
+      "led_cluster"
+    ],
+    [
+      "52852d8d-0d14-4226-9b6c-d04fc3c95df9",
+      "ESP32"
     ]
   ],
   "text_variables": {}
