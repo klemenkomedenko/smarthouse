@@ -1,0 +1,81 @@
+Plugin v0.0.1 running on KiCad 8.0.3-8.0.3-0~ubuntu20.04.1 and Python 3.8.10 (default, Mar 25 2024, 10:42:49) 
+[GCC 9.4.0] on linux.
+
+├─ 0646acc6
+│  ├─ sw
+│  ├─ POWER
+│  ├─ PWM
+│  │  ├─ 724a3d52
+│  │  │  ├─ dim69
+│  │  │  ├─ dim67
+│  │  │  ├─ dim60
+│  │  │  ├─ dim58
+│  │  │  ├─ dim66
+│  │  │  ├─ dim54
+│  │  │  ├─ dim65
+│  │  │  ├─ dim56
+│  │  │  ├─ dim61
+│  │  │  ├─ dim63
+│  │  │  ├─ dim62
+│  │  │  ├─ dim59
+│  │  │  ├─ dim57
+│  │  │  ├─ dim64
+│  │  │  ├─ dim55
+│  │  │  ├─ dim53
+│  │  │  ├─ dim68
+│  │  ├─ 8c5c3717
+│  │  │  ├─ dim25
+│  │  │  ├─ dim42
+│  │  │  ├─ dim26
+│  │  │  ├─ dim39
+│  │  │  ├─ dim40
+│  │  │  ├─ dim48
+│  │  │  ├─ dim24
+│  │  │  ├─ dim37
+│  │  │  ├─ dim27
+│  │  │  ├─ dim49
+│  │  │  ├─ dim41
+│  │  │  ├─ dim45
+│  │  │  ├─ dim38
+│  │  │  ├─ dim35
+│  │  │  ├─ dim28
+│  │  │  ├─ dim52
+│  │  │  ├─ dim51
+│  │  │  ├─ dim43
+│  │  │  ├─ dim33
+│  │  │  ├─ dim44
+│  │  │  ├─ dim30
+│  │  │  ├─ dim29
+│  │  │  ├─ dim46
+│  │  │  ├─ dim47
+│  │  │  ├─ dim50
+│  │  │  ├─ dim36
+│  │  │  ├─ dim32
+│  │  │  ├─ dim34
+│  │  │  ├─ dim31
+│  │  ├─ c5a171ab
+│  │  │  ├─ dim6
+│  │  │  ├─ dim9
+│  │  │  ├─ dim
+│  │  │  ├─ dim16
+│  │  │  ├─ dim22
+│  │  │  ├─ dim8
+│  │  │  ├─ dim12
+│  │  │  ├─ dim2
+│  │  │  ├─ dim11
+│  │  │  ├─ dim17
+│  │  │  ├─ dim7
+│  │  │  ├─ dim20
+│  │  │  ├─ dim13
+│  │  │  ├─ dim23
+│  │  │  ├─ dim14
+│  │  │  ├─ dim15
+│  │  │  ├─ dim10
+│  │  │  ├─ dim18
+│  │  │  ├─ dim3
+│  │  │  ├─ dim5
+│  │  │  ├─ dim21
+│  │  │  ├─ dim19
+│  │  │  ├─ dim4
+│  │  │  ├─ dim1
+├─ power_supply

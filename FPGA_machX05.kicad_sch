@@ -1,0 +1,122 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c0ade39b-07aa-4294-9815-09cd11b0a254")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 99.822 26.67)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9f8b6db-00a8-4d7a-90f8-881b4dc185fc")
+		(property "Sheetname" "FTDI"
+			(at 99.822 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FTDI.kicad_sch"
+			(at 99.822 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "home_auto"
+				(path "/68de2dd7-8f08-479b-94c5-c7847794fd33/0646acc6-79c1-4e67-b684-df663024146f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 42.164 26.67)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7ced5e0-0c0c-4152-9046-c846e8f8336d")
+		(property "Sheetname" "POWER"
+			(at 42.164 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 42.164 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "home_auto"
+				(path "/68de2dd7-8f08-479b-94c5-c7847794fd33/0646acc6-79c1-4e67-b684-df663024146f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 71.12 26.67)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e2414220-ec84-428f-be7d-97f80e2816b2")
+		(property "Sheetname" "FPGA_GPIO"
+			(at 71.12 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_GPIO.kicad_sch"
+			(at 71.12 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "home_auto"
+				(path "/68de2dd7-8f08-479b-94c5-c7847794fd33/0646acc6-79c1-4e67-b684-df663024146f"
+					(page "81")
+				)
+			)
+		)
+	)
+)
