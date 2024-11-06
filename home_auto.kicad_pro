@@ -664,68 +664,60 @@
       "Root"
     ],
     [
-      "d909bc7e-c24c-4952-aac8-0243844fb75a",
-      "led_cur_lim"
-    ],
-    [
-      "005a2024-8f92-469d-bc4a-744e1679faf7",
-      "led_cur_lim1"
-    ],
-    [
-      "ade78f76-2dfa-4a61-a7b6-c0049c12516f",
+      "91b299b5-5548-4b69-8d2c-3c2e8e0d6c94",
       "led_cur_lim2"
     ],
     [
-      "d201333b-5485-457c-9fcb-2d7949e80791",
+      "a1dbf1a3-1783-43ef-bd47-4215c7f90a39",
       "led_cur_lim3"
     ],
     [
-      "ede8903f-d3c7-4a76-9aec-82eef41c596b",
+      "96e407a9-6ee0-479b-9fbf-f7a48cf810cb",
       "led_cur_lim4"
     ],
     [
-      "38e43560-dc5d-4488-af54-7fd49213ac73",
-      "led_cluster1"
-    ],
-    [
-      "005a2024-8f92-469d-bc4a-744e1679faf7",
-      "led_cur_lim1"
-    ],
-    [
-      "d909bc7e-c24c-4952-aac8-0243844fb75a",
-      "led_cur_lim"
-    ],
-    [
-      "d201333b-5485-457c-9fcb-2d7949e80791",
-      "led_cur_lim3"
-    ],
-    [
-      "ade78f76-2dfa-4a61-a7b6-c0049c12516f",
-      "led_cur_lim2"
-    ],
-    [
-      "ede8903f-d3c7-4a76-9aec-82eef41c596b",
-      "led_cur_lim4"
-    ],
-    [
-      "f53d6939-53c5-4a6f-a98d-78c49925da7f",
+      "70988995-48d6-4ad1-86c6-cf9dd04e07b9",
       "led_cur_lim5"
     ],
     [
-      "feb57203-b62c-4e0d-97b0-167fd3f2ad5a",
+      "b40fb3a8-bbb4-42a7-abc7-7e8f1636f5c0",
       "led_cur_lim6"
     ],
     [
-      "fb47182a-af5d-4515-ad79-178623ec22d8",
+      "013c8938-86eb-48be-b677-4a97eddddf35",
+      "led_cur_lim1"
+    ],
+    [
+      "6304abe4-4046-4567-bb90-19fe0eafc417",
       "led_cur_lim7"
     ],
     [
-      "7a69edd2-25c4-4ed3-a7a9-92d7e573ab90",
+      "37631702-f155-4c79-8c13-5fe17aa99665",
       "led_cur_lim8"
     ],
     [
-      "1f8c924d-a3bb-4076-ad10-e969d7708339",
-      "led_cluster"
+      "50a574cf-6b54-4b4e-ac9e-b061fa67c785",
+      "led_cur_lim9"
+    ],
+    [
+      "b1fa5ab9-4831-404b-b5a9-ef0aa89b1af9",
+      "led_cur_lim10"
+    ],
+    [
+      "8fbaaa15-2de2-4a0d-ba4b-a17510f3ce92",
+      "led_cur_lim11"
+    ],
+    [
+      "c1c3f285-6cca-4ef6-aa06-84fc12121080",
+      "led_cur_lim12"
+    ],
+    [
+      "5f407404-94c4-4799-b631-0694f91d9e2b",
+      "led_cur_lim13"
+    ],
+    [
+      "ac3ba986-e2b2-4e75-b376-5b316e2e0f3d",
+      "led_cur_lim14"
     ],
     [
       "52852d8d-0d14-4226-9b6c-d04fc3c95df9",
